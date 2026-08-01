@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass 3D Billiards (یاری بلیاردی ٣ دی)",
+  "description": "A 3D 8-Ball Billiards game featuring a Liquid Glass aesthetic, realistic physics, bilingual Kurdish Sorani/English support, AI opponents, and trick shot practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
